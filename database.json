@@ -1,0 +1,28 @@
+{
+  "users": {
+    "user_01": {
+      "email": "admin@gmail.com",
+      "matkhau": "123456",
+      "hoten": "Nguyễn Văn Quản Trị",
+      "hinhanh": "https://i.pravatar.cc/150?img=11"
+    },
+    "user_02": {
+      "email": "tranvanb@gmail.com",
+      "matkhau": "matkhau123",
+      "hoten": "Trần Văn Bình",
+      "hinhanh": "https://i.pravatar.cc/150?img=12"
+    },
+    "user_03": {
+      "email": "lethic@gmail.com",
+      "matkhau": "abc12345",
+      "hoten": "Lê Thị Cẩm",
+      "hinhanh": "https://i.pravatar.cc/150?img=5"
+    },
+    "user_04": {
+      "email": "phamvand@gmail.com",
+      "matkhau": "999999",
+      "hoten": "Phạm Văn Dũng",
+      "hinhanh": "https://i.pravatar.cc/150?img=33"
+    }
+  }
+}
